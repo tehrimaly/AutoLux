@@ -1,6 +1,14 @@
-# AutoLux — Premium Automotive E-Commerce Platform v2.0
+# AutoLux Premium Automotive E-Commerce Platform v2.0
 
 AutoLux v2.0 is a high-end, responsive automotive digital showroom inspired by modern luxury brand aesthetics (Porsche, Bentley, Ferrari). Designed with a sophisticated dark mode palette and gold accents, this project provides a premium user experience for luxury vehicle exploration.
+<img width="1570" height="762" alt="image" src="https://github.com/user-attachments/assets/d927bedc-ed2b-428c-856e-298c3635e336" />
+<img width="1575" height="766" alt="image" src="https://github.com/user-attachments/assets/7481005a-91b8-4075-a8d6-e974a5cf9cab" />
+<img width="1558" height="755" alt="image" src="https://github.com/user-attachments/assets/21e2c589-eea4-40aa-a882-1dc6f3295929" />
+<img width="1542" height="713" alt="image" src="https://github.com/user-attachments/assets/d074e80a-decf-4b92-a8d7-2e43b38010db" />
+
+
+
+
 
 ---
 
